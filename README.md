@@ -11,9 +11,9 @@
 
 ## Programming Languages
 
-<a href="URL"><img src="https://user-images.githubusercontent.com/84464594/155207160-bd21fa32-7c74-4068-8e1e-38c49ac49f5b.png" height="80" width="80" alt = "C++ logo"></a>
-  <a href="url"><img src="https://user-images.githubusercontent.com/84464594/155207555-b06a1e96-0340-44b0-b9c6-d1c21d86d55b.png" height="80" width="80" alt = "Python logo"></a>
-  <a href="url"><img src="https://user-images.githubusercontent.com/84464594/155208265-2c7e75af-b6cb-4458-a054-e6884c10725c.png" height="80" width="80" alt = "JavasScript logo"></a>
+<a href="URL"><img src="https://user-images.githubusercontent.com/84464594/155207160-bd21fa32-7c74-4068-8e1e-38c49ac49f5b.png" height="70" width="80" alt = "C++ logo"></a>
+<a href="url"><img src="https://user-images.githubusercontent.com/84464594/155207555-b06a1e96-0340-44b0-b9c6-d1c21d86d55b.png" height="80" width="80" alt = "Python logo"></a>
+<a href="url"><img src="https://user-images.githubusercontent.com/84464594/155208265-2c7e75af-b6cb-4458-a054-e6884c10725c.png" height="80" width="80" alt = "JavasScript logo"></a>
 
 ## Frontend
 
