@@ -21,6 +21,7 @@
 <a href="url"><img src="https://user-images.githubusercontent.com/84464594/155208664-eaa9e7a1-6f8e-4ab8-a313-f2de5970eb91.png" height="70" width="70" alt = "CSS logo"></a>
 
 ## Backend
+![nodejsLogo](https://user-images.githubusercontent.com/84464594/165134838-ee59ce16-8e60-4c46-9e81-e7493ff8cf5b.png)
 
 
 ## Databases
