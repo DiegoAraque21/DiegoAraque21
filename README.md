@@ -17,7 +17,7 @@
 
 ## Frontend
 
-<a href="url"><img src="https://user-images.githubusercontent.com/84464594/155208504-c23df023-d9cb-40e6-bcfc-8887b78b473c.png" height="70" width="70" alt = "HTML logo"></a>
+<a href="url"><img src="https://user-images.githubusercontent.com/84464594/165135429-e6eeb22e-3c19-4780-bf42-a242b27b76d7.png" height="70" width="70" alt = "HTML logo"></a>
 <a href="url"><img src="https://user-images.githubusercontent.com/84464594/155208664-eaa9e7a1-6f8e-4ab8-a313-f2de5970eb91.png" height="70" width="70" alt = "CSS logo"></a>
 
 ## Backend
