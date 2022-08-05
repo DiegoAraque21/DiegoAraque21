@@ -12,11 +12,12 @@ I am a future Full Stack Developer <img src="https://media.giphy.com/media/WUlpl
 
 - 👨‍🎓: I’m a Computer Science Student at Tecnologico de Monterrey
 
+- 🤵‍♂️: I can speak spanish, english and german fluently!
+
 - 🤓: Passionate learner.
 
 - ⏲️: In my free time, i love to watch all kind of sports and learn new technologies.
 
-- 🤵‍♂️: I can speak spanish, english and german fluently!
 
 ### :hammer_and_wrench: Languages and Tools :
 
