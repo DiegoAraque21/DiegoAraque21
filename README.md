@@ -8,13 +8,15 @@
 
 ### 👨‍💻 About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I am a future Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: I’m a Computer Science Student at Tecnologico de Monterrey
+- 👨‍🎓: I’m a Computer Science Student at Tecnologico de Monterrey
 
-- :seedling: Passionate learner.
+- 🤓: Passionate learner.
 
-- :zap: In my free time, i love to watch all kind of sports and learn new technologies.
+- ⏲️: In my free time, i love to watch all kind of sports and learn new technologies.
+
+- 🤵‍♂️: I can speak spanish, english and german fluently!
 
 ### :hammer_and_wrench: Languages and Tools :
 
