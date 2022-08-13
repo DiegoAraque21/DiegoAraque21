@@ -32,6 +32,6 @@
 </div>
   
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DiegoAraque21&theme=dark&background=000000)](https://git.io/streak-stats)
+![Github stats](https://github-readme-stats.vercel.app/api?username=DiegoAraque21&theme=highcontrast&show_icons=true&count_private=true)
 
 
