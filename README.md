@@ -31,7 +31,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp;
 </div>
   
-### :fire: My Stats :
-![Github stats](https://github-readme-stats.vercel.app/api?username=DiegoAraque21&theme=highcontrast&show_icons=true&count_private=true)
-
-
