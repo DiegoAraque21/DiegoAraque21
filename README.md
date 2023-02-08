@@ -5,13 +5,15 @@
 
 ### 👨‍💻 About Me :
 
-- 👨‍🎓: I’m a Computer Science Student at Tecnologico de Monterrey <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- I’m a Computer Science Student at Tecnologico de Monterrey <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 🤵‍♂️: I can speak spanish, english and german fluently!
+- I can speak spanish, english and german fluently!
 
-- 🤓: Passionate learner.
+- Passionate learner.
 
-- ⏲️: In my free time, i love to watch all kind of sports and learn new technologies.
+- In my free time, I love to watch all kind of sports and learn new technologies.
+
+- Curerntly practicing data structures for future coding interviews.
 
 
 ### :hammer_and_wrench: Languages and Tools :
