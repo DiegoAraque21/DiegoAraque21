@@ -13,7 +13,7 @@
 
 - In my free time, I love to watch all kind of sports and learn new technologies.
 
-- Curerntly practicing data structures for future coding interviews.
+- Curerntly learning AWS.
 
 
 ### :hammer_and_wrench: Languages and Tools :
