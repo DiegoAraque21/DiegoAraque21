@@ -15,8 +15,6 @@
 
 - Curerntly learning AWS.
 
-<img src="https://github-readme-stats.vercel.app/api?username=DiegoAraque21&show_icons=true"/>
-
 ### :hammer_and_wrench: Languages and Tools :
 
 <div align="center">
